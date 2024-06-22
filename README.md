@@ -3,7 +3,7 @@
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/Mnuralim/bot-sonic-sol.git
+git clone https://github.com/aldids021/bot-sonic-sol.git
 cd bot-sonic-sol
 ```
 
